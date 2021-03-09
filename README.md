@@ -1,6 +1,6 @@
 # flutter_contact_app
  
-Flutter app that displays generates random contact information
+Flutter app that displays generates random contact information\n
 Plugin used:
 - timeago: ^2.0.30
 - provider: ^3.2.0
